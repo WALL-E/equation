@@ -1,4 +1,4 @@
-#!/root/equation/xyz
+#!/Users/zhangzheng/workspace/equation/xyz
 
 x + y + z = 109
 x - 2*y = 3
