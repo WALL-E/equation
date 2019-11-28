@@ -1,0 +1,5 @@
+#!/root/equation/xyz
+
+x + y + z = 109
+x - 2*y = 3
+y - 2*z = -2
